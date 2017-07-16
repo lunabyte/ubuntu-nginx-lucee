@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Installing Tomcat 8"
-apt-get install tomcat8
+apt-get install tomcat8 -y
 
 echo "Configuring Tomcat"
 
